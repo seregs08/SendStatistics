@@ -1,0 +1,4 @@
+USERNAME = "username"
+PASSWORD = "password"
+IP_ENM = "ip_enm"
+IP_MSS = "ip_mss1/ip_mss2"
